@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "qualtrics-digital-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/qualtrics/qualtrics-digital-ios-sdk",
+      "state" : {
+        "revision" : "f253c2ab8005ce5fa9aa2d11d54dafdf6017f249",
+        "version" : "2.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
